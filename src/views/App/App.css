@@ -2,3 +2,17 @@
 {
     text-align: center;
 }
+
+.search{
+    margin: 30px;
+ height: 30px;
+ width: 380px;
+ font-size: 20px;
+ /* border: 1px solid rgb(146, 143, 143); */
+ box-shadow: 0 1px 5px 1px rgb(107, 106, 106);
+}
+.search-bar{
+   position: relative;
+   left: 520px;
+   
+}
