@@ -1,0 +1,72 @@
+
+ const phonebook=[
+    {
+      "name":"Mansi Dethe",
+      "mobile": 7249245502
+    },
+    {
+      "name":"Aniket Dethe",
+      "mobile": 7249245502
+    },
+    {
+      "name":"Mayuri Gunjal",
+      "mobile": 7249245502
+    },
+    {
+        "name":"Aarti Medhe",
+        "mobile": 7249245502
+    },
+    {
+        "name":"Manish Dethe",
+        "mobile": 7249245502
+    },
+    {
+        "name":"Avinash Dethe",
+      "mobile": 7249245502
+    },
+    {
+        "name":"Prajkta Mhase",
+        "mobile": 7249245502
+    },
+    {
+        "name":"Rupali Shete",
+        "mobile": 7249245502
+    },
+    {
+        "name":"Ajit Dethe",
+        "mobile": 7249245502
+    },
+    {
+        "name":"Sujit Dethe",
+        "mobile": 7249245502
+    },
+    {
+        "name":"Sakshi Thorat",
+        "mobile": 7249245502
+    },
+    {
+        "name":"Vrushali Musmade",
+        "mobile": 7249245502
+    },
+    {
+        "name":"Mayuri Musmade",
+        "mobile": 7249245502
+    },
+    {
+        "name":"Namrata Korade",
+        "mobile": 7249245502
+    },
+    {
+        "name":"Bharti Harinkhede",
+        "mobile": 7249245502
+    },
+    {
+        "name":"Dipti Tarde",
+        "mobile": 7249245502
+    },
+  ]
+  
+  
+  
+  
+  
