@@ -24,7 +24,9 @@ function App() {
 
     return (
         <div>
+            
             <h1 className="text-center">Contact App</h1>
+            <div className="search-bar-container">
 <div className="search-bar">
             <input type="text"
                 placeholder="Search"
@@ -32,6 +34,7 @@ function App() {
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
             />
+            </div>
             </div>
 
             <div>
