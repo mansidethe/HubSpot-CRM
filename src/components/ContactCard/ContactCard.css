@@ -5,10 +5,10 @@
     height: 80px;
     padding: 10px;
     margin: 10px;
-    
+    background-image: linear-gradient(80deg, rgb(241, 154, 208), rgb(143, 243, 143), rgb(243, 243, 135));
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid gray;
+    border: 2px solid rgb(12, 12, 12);
     border-radius: 10px;
     background-color: rgb(209, 125, 166);
     align-items: center;

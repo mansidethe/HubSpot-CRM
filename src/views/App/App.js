@@ -25,7 +25,7 @@ function App() {
     return (
         <div>
             
-            <h1 className="text-center">Contact App</h1>
+            <h1 className="text-center">My Contact📲</h1>
             <div className="search-bar-container">
 <div className="search-bar">
             <input type="text"
